@@ -36,7 +36,7 @@ The blockchain public ledger technology (which underlies cryptocurrency) has the
 * How is your company performing relative to competitors in the same domain?   Relative to Ripple's competitors, the Ripple cryptocurrency, XRP, is currently the third most valuable cryptocurrency by market cap, after Bitcoin.
 ## Recommendations:
 * If you were to advise the company, what products or services would you suggest they offer? Instead of offering digital payments only to big banks, Ripple could also offer services to individual consumers, like Western Union and MoneyGram.  Ripple could scale down even further to apps like Venmo or PayPal.
-* Why do you think that offering this product or service would benefit the company? I don�t see why Ripple should just focus on the large bank customers?  Ripple could increase their revenue by also pursuing individual consumers.  
+* Why do you think that offering this product or service would benefit the company? I don't see why Ripple should just focus on the large bank customers?  Ripple could increase their revenue by also pursuing individual consumers.  
 * What technologies would this additional product or service utilize? This additional service would use contactless payments within a mobile device, similar to Apple Pay or Google Wallet.
 
 * Why are these technologies appropriate for your solution? Digital payments are playing an increasingly critical role as consumer behavior shifts into a post-COVID world where contactless is the preferred way to pay.  This digital process also allows people to send money to loved ones around the world, instantly. 
